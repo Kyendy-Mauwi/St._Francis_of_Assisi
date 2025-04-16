@@ -85,7 +85,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-2">
-              <img src="src/images/logo.jpg" alt="SFY Logo" className="h-8 w-8"/>
+              <img src="/images/logo.jpg" alt="SFY Logo" className="h-8 w-8"/>
               <span className="text-xl font-bold">St. Francis Youth</span>
             </div>
             <div className="hidden md:flex space-x-8">
@@ -101,7 +101,7 @@ function App() {
       {/* Hero Section */}
       <div className="relative">
         <img
-          src="src/images/Landing.jpg"
+          src="/images/Landing.jpg"
           alt="Youth group gathering"
           className="w-full h-[600px] object-cover"
         />
@@ -229,7 +229,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
-              <img src="src/images/logo.jpg" alt="SFY Logo" className='h-8 w-8'/>
+              <img src="/images/logo.jpg" alt="SFY Logo" className='h-8 w-8'/>
               <span className="font-bold">St. Francis Youth</span>
             </div>
             <div className="text-gray-400 text-sm">
