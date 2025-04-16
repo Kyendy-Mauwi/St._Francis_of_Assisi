@@ -50,29 +50,29 @@ function App() {
     {
       title: "Easter Skit",
       images: [
-        "src/images/ES01.jpg",
-        "src/images/ES02.jpg",
-        "src/images/ES04.jpg",
-        "src/images/ES03.jpg"
+        "/images/ES01.jpg",
+        "/images/ES02.jpg",
+        "/images/ES04.jpg",
+        "/images/ES03.jpg"
       ],
       description: "In 2023, St. Francis Youth (SFY) brought the joy and meaning of Easter to life through a heartfelt and inspiring skit performance. Our Easter skit portrayed the timeless message of love and sacrifice, resonating with our community and audience.Through this creative expression, we shared the significance of Easter, reminding ourselves of the hope and redemption it represents. It was a powerful moment of reflection and celebration, showcasing our commitment to spreading positivity and faith. At SFY, every occasion becomes an opportunity to connect, inspire, and uplift. Our Easter skit was more than just a performance—it was a testament to our unity and shared values."
     },
     {
       title: "Retreat",
       images: [
-        "src/images/Ret01.jpg",
-        "src/images/Ret02.jpg",
-        "src/images/Ret03.jpg",
-        "src/images/Ret04.jpg"
+        "/images/Ret01.jpg",
+        "/images/Ret02.jpg",
+        "/images/Ret03.jpg",
+        "/images/Ret04.jpg"
       ],
       description: "Our trip to The Forest Kereita was a perfect blend of adventure and camaraderie. Surrounded by nature's beauty, we explored trails, conquered obstacles, and shared laughter around the campfire. This journey strengthened our bonds and created cherished memories. Here's to more adventures with our St. Francis Youth (SFY) family!"
     },
     {
       title: "Acts of Mercy",
       images: [
-        "src/images/ca01.jpg",
-        "src/images/ca02.jpg",
-        "src/images/ca03.jpg"
+        "/images/ca01.jpg",
+        "/images/ca02.jpg",
+        "/images/ca03.jpg"
       ],
       description: "During our 'Acts of Mercy' charity event, the St. Francis Youth (SFY) community came together to make a meaningful impact by providing food for our friends in need. With hearts full of compassion and a desire to serve, we pooled our resources to purchase essential food items for our friends who may be facing challenges. Together, we demonstrated the power of collective action and generosity, showing that even a small act of kindness can make a significant difference in the lives of our friends. The joy of giving and sharing nourishment with others was truly humbling and inspiring for all involved."
     }
