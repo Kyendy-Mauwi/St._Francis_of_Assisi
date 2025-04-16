@@ -193,7 +193,7 @@ function App() {
               },
               {
                 title: "Community Service",
-                date: "June 5",
+                date: "Annually,
                 description: "Serving our local community through various projects."
               }
             ].map((event, index) => (
