@@ -70,9 +70,9 @@ function App() {
     {
       title: "Acts of Mercy",
       images: [
-        "src/images/CA01.jpg",
-        "src/images/CA02.jpg",
-        "src/images/CA03.jpg"
+        "src/images/ca01.jpg",
+        "src/images/ca02.jpg",
+        "src/images/ca03.jpg"
       ],
       description: "During our 'Acts of Mercy' charity event, the St. Francis Youth (SFY) community came together to make a meaningful impact by providing food for our friends in need. With hearts full of compassion and a desire to serve, we pooled our resources to purchase essential food items for our friends who may be facing challenges. Together, we demonstrated the power of collective action and generosity, showing that even a small act of kindness can make a significant difference in the lives of our friends. The joy of giving and sharing nourishment with others was truly humbling and inspiring for all involved."
     }
