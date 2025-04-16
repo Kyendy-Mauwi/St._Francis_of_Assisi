@@ -50,29 +50,29 @@ function App() {
     {
       title: "Easter Skit",
       images: [
-        "public/images/ES01.jpg",
-        "public/images/ES02.jpg",
-        "public/images/ES04.jpg",
-        "public/images/ES03.jpg"
+        "./images/ES01.jpg",
+        "./images/ES02.jpg",
+        "./images/ES04.jpg",
+        "./images/ES03.jpg"
       ],
       description: "In 2023, St. Francis Youth (SFY) brought the joy and meaning of Easter to life through a heartfelt and inspiring skit performance. Our Easter skit portrayed the timeless message of love and sacrifice, resonating with our community and audience.Through this creative expression, we shared the significance of Easter, reminding ourselves of the hope and redemption it represents. It was a powerful moment of reflection and celebration, showcasing our commitment to spreading positivity and faith. At SFY, every occasion becomes an opportunity to connect, inspire, and uplift. Our Easter skit was more than just a performance—it was a testament to our unity and shared values."
     },
     {
       title: "Retreat",
       images: [
-        "public/images/Ret01.jpg",
-        "public/images/Ret02.jpg",
-        "public/images/Ret03.jpg",
-        "public/images/Ret04.jpg"
+        "./images/Ret01.jpg",
+        "./images/Ret02.jpg",
+        "./images/Ret03.jpg",
+        "./images/Ret04.jpg"
       ],
       description: "Our trip to The Forest Kereita was a perfect blend of adventure and camaraderie. Surrounded by nature's beauty, we explored trails, conquered obstacles, and shared laughter around the campfire. This journey strengthened our bonds and created cherished memories. Here's to more adventures with our St. Francis Youth (SFY) family!"
     },
     {
       title: "Acts of Mercy",
       images: [
-        "public/images/ca01.jpg",
-        "public/images/ca02.jpg",
-        "public/images/ca03.jpg"
+        "./images/ca01.jpg",
+        "./images/ca02.jpg",
+        "./images/ca03.jpg"
       ],
       description: "During our 'Acts of Mercy' charity event, the St. Francis Youth (SFY) community came together to make a meaningful impact by providing food for our friends in need. With hearts full of compassion and a desire to serve, we pooled our resources to purchase essential food items for our friends who may be facing challenges. Together, we demonstrated the power of collective action and generosity, showing that even a small act of kindness can make a significant difference in the lives of our friends. The joy of giving and sharing nourishment with others was truly humbling and inspiring for all involved."
     }
@@ -101,7 +101,7 @@ function App() {
       {/* Hero Section */}
       <div className="relative">
         <img
-          src="public/images/Landing.jpg"
+          src="./images/Landing.jpg"
           alt="Youth group gathering"
           className="w-full h-[600px] object-cover"
         />
@@ -229,7 +229,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
-              <img src="public/images/logo.jpg" alt="SFY Logo" className='h-8 w-8'/>
+              <img src="./images/logo.jpg" alt="SFY Logo" className='h-8 w-8'/>
               <span className="font-bold">St. Francis Youth</span>
             </div>
             <div className="text-gray-400 text-sm">
